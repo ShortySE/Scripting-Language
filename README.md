@@ -1,5 +1,5 @@
 # SCL
-This is a simple scripting language written in C++ to execute commands on Windows and though some commands will work on other operating systems they haven't been.
+This is a simple scripting language written in C++ to execute commands on Windows and though some commands will work on other operating systems they haven't yet been tested.
 
 The commands include:
 1. writeLine - To print a line to the console.
