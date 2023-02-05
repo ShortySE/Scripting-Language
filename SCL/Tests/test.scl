@@ -1,0 +1,3 @@
+writeLine 'Hello whatever';
+compile 'main.cpp';
+python 'testPy.py';
